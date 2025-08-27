@@ -1,0 +1,23 @@
+---
+title: "RD_DisEco_Fall2025"
+author: "Rachel Dunleavy"
+format: html
+editor: visual
+---
+
+## **8/26/2025**
+
+```{r}
+# Function to calculate the area of a cicrcle
+area_of_circle<-function(radius){
+  area<-pi * radius^2
+  return(area)
+}
+radius<- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![](images/clipboard-2483839587.png)
+
+This image shows the connection between pathogen, host, and the environment. It shows that if one is present it is more then likely that the other 2 had a part in how it is expressed.
