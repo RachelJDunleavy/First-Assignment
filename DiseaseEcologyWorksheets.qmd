@@ -1,0 +1,60 @@
+---
+title: "RD_DisEco_Fall2025"
+author: "Rachel Dunleavy"
+format: html
+editor: visual
+---
+
+## **8/26/2025**
+
+```{r}
+# Function to calculate the area of a cicrcle
+area_of_circle<-function(radius){
+  area<-pi * radius^2
+  return(area)
+}
+radius<- 5 # from the example
+circle_area <- area_of_circle(radius)
+cat("The area of the circle with radius", radius, "is", circle_area, "\n")
+```
+
+![](images/clipboard-2483839587.png)
+
+This image shows the connection between pathogen, host, and the environment. It shows that if one is present it is more then likely that the other 2 had a part in how it is expressed.
+
+------------------------------------------------------------------------
+
+# 9/22/2025 Worksheet 2
+
+# Sample Size for Disease Detection
+
+![](images/ss_table.png)
+
+1.  Find the sample size necessary to detect a disease at or above 5% prevalence in a herd of 5000 deer. The desired level of confidence is 95%.
+
+    N=3/p=3/0.05=60
+
+    n≥ln(0.05)/ln(1-p)=ln(0.05)/ln(0.95)=58.4--\>59%
+
+2.  Using the hypergeometric distribution, compare the sample size requirements for the following scenarios:
+
+    a\) 95% confidence in detecting a disease at 1% prevalence in a large population
+
+    n ≥ ln(0.05)/ln(0.99)=298.07--\>299\
+
+    b)  99% confidence in detecting a disease at 2% prevalence in a large population
+
+        n ≥ln(0.01)/ln(0.98)=227.95--\>228
+
+3.  You sample 300 deer from a high fenced facility that has a herd of 4000. None of the 300 deer have antibodies against Epizootic Hemorrhagic Disease. Based on this finding, you are 95% confident that the prevalence of exposure to EHD in this facility is\
+    \_\_\_\_\_ (\<, =, \>) \_\_\_\_%.
+
+    N=4000 n=300 Positives found=0 Confidence Level=95%
+
+    3/300=0.01=1%
+
+    P(0.95)+K(0.95)/N=39/4000=0.00975=0.975%--\>0.98%
+
+    Based on the finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \<1%.
+
+------------------------------------------------------------------------
