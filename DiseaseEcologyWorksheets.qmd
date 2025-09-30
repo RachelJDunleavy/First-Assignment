@@ -58,3 +58,56 @@ This image shows the connection between pathogen, host, and the environment. It 
     Based on the finding, you are 95% confident that the prevalence of exposure to EHD in this facility is \<1%.
 
 ------------------------------------------------------------------------
+
+# 9/26/2025 Worksheet 3
+
+# Measures of Disease Frequency: Prevalence and Incidence
+
+Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her data shows that an outbreak of conjunctivitis started on 10^th^ June 2025. She meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows:
+
+RE: red eyes; OD: ocular discharge; NAD: no abnormality detected
+
+| ELK ID | 06/10/25 | 06/11/2025 | 6/12/25 | 6/13/25 | 6/14/25 | 06/15/25 | 6/16/25 |
+|--------|----------|------------|---------|---------|---------|----------|---------|
+| 2320B  | NAD      | NAD        | RE,OD   | OD      | OD      | OD       | OD      |
+| 2355B  | NAD      | RE         | RE,OD   | RE,OD   | NAD     | NAD      | NAD     |
+| 2565B  | NAD      | RE         | RE      | OD      | OD      | NAD      | NAD     |
+| 2763B  | NAD      | NAD        | RE      | OD      | OD      | NAD      | NAD     |
+| 2772B  | NAD      | NAD        | RE      | RE      | RE,OD   | NAD      | NAD     |
+| 1889B  | RE       | RE,OD      | RE,OD   | OD      | NAD     | NAD      | NAD     |
+| 1766B  | NAD      | NAD        | NAD     | NAD     | RE,OD   | OD       | OD      |
+| 1322B  | NAD      | NAD        | NAD     | RE,OD   | RE,OD   | OD       | OD      |
+| 4533B  | NAD      | NAD        | NAD     | RE,OD   | OD      | OD       | OD      |
+| 4597B  | NAD      | NAD        | RE      | RE, OD  | RE,OD   | OD       | NAD     |
+| 4599B  | NAD      | NAD        | NAD     | NAD     | RE,OD   | RE,OD    | OD      |
+| 5666B  | NAD      | OD         | OD      | OD      | NAD     | NAD      | NAD     |
+| 5971B  | NAD      | RE         | RE,OD   | OD      | OD      | OD       | NAD     |
+| 6001B  | NAD      | NAD        | RE      | RE,OD   | OD      | OD       | NAD     |
+
+Recovered elk are immune(not susceptible to conjunctivitis for 6 months. There were no infected elk in the herd after 06/16/25.
+
+a\) Find incidence on day 06/12/25, 06/14/25 and 06/15/25. Write the unit for incidence.
+
+6/12/25 I=5/51=0.098--\>9.8%/day
+
+6/14/25 I=2/44=0.045--\>4.5%/day
+
+6/15/25 I=0/42=0.000--\>0%/day
+
+b\) What is the prevalence of conjunctivitis on 06/13/25 and 06/16/25? What is the unit for prevalence. 
+
+6/13/25 P=12/56=0.214--\>21.4%
+
+6/16/25 P=5/56=0.089--\>8.9%
+
+c\) On which day is the prevalence same as the incidence (except the units)?
+
+P(06/10)=C06/10/56
+
+I(06/10)= C06/10/56
+
+These are numerically identical, so prevalence equals incidence on 06/10/25
+
+d\) On which day is the incidence lowest? 
+
+The lowest incidence is 0, occurring on a tie: 06/15/25 and 06/16/2025
