@@ -111,3 +111,11 @@ These are numerically identical, so prevalence equals incidence on 06/10/25
 d\) On which day is the incidence lowest? 
 
 The lowest incidence is 0, occurring on a tie: 06/15/25 and 06/16/2025
+
+------------------------------------------------------------------------
+
+# 10/14/2025 Tick Lab
+
+Ticks are external parasites that can be identified based on their morphological features and more recently through molecular methods. Traditional identification relies on examining characteristics such as body shape, size, scutum (shield) patterns, mouthparts, and the presence or absence of festoons under a stereomicroscope. Keys for tick genera like *Ixodes*, *Amblyomma*, and *Rhipicephalus* are commonly used in diagnostic labs. Advances in molecular techniques, such as PCR and DNA barcoding, llow for more precise identification of tick species, particularly when morphological features are damaged or incomplete. The public health significance of ticks lies in their role as vectors of numerous pathogens, including bacteria (e.g., *Borrelia burgdorferi* causing Lyme disease), viruses (e.g., tick-borne encephalitis virus, Heartland virus), and protozoa (e.g., *Babesia* spp.). Because ticks feed on blood from humans and animals, they serve as bridges for zoonotic disease transmission, making accurate identification essential for surveillance, outbreak response, and prevention strategies.
+
+##### 
