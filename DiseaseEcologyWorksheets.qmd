@@ -133,3 +133,45 @@ Finally, broader conservation strategies are needed to protect Saiga from extinc
 9\) Define R₀. Estimate R₀ for the following scenario. Red flamingo represents an infectious case, and blue are susceptibles; an arrow indicates transmission. Explain your findings in the context of real-world wildlife disease.
 
 R₀ is the average number of new infections caused by one infectious individual in a fully susceptible population. In the flamingo scenario, R₀=3 because the first infected flamingo transmitted to three others. This shows that the pathogen can spread quickly in dense wildlife populations. In real-world systems, such as avian influenza in waterfowl or colony-nesting birds, high R₀ values occur because of close contact, but once enough animals gain immunity or die, transmission slows as R₀ drops below 1.
+
+------------------------------------------------------------------------
+
+# 10/19/2025 Worksheet 4
+
+# Multihost pathogens, Spillover
+
+**MERS-CoV**
+
+Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camels (dromedaries), and direct physical contact with camels can lead to transmission to humans. Limited human-to-human transmission can occur after close contact and has resulted in health care–associated outbreaks. Human MERS-CoV infection can cause severe respiratory illness; approximately 35% of reported MERS cases have died.
+
+Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 – September 2025 (European Centre for Disease Prevention and Control)
+
+![](Screenshot 2025-10-19 at 4.47.01 PM.png)
+
+Which of the following statements about MERS-CoV are correct? *(If it is incorrect, provide an explanation why the statement is incorrect.)*
+
+1.  MERS-CoV is primarily maintained in human populations. (2 points)
+
+    Incorrect.
+
+    MERS-CoV is maintained in camels, which serve as the main reservoir. Human-to-Human transmission is limited and does not sustain the virus long term in human population.
+
+2.  Camels serve as the main animal reservoir for MERS-CoV. (2 points)
+
+    Correct.
+
+3.  Humans are dead-end hosts for MERS-CoV. (2 points)
+
+    Correct.
+
+4.  The estimated case fatality rate for human MERS-CoV infections is approximately 65%. (2 points)
+
+    Incorrect.
+
+    The case fatality rate is around 35%, not 65%. This estimate is based on confirmed cases reported since 2012. While still high very high compared to most respiratory viruses, the CFR is nearly half of what the statement claims. The 65% figure might refelect smaller, early outbreak clusters with higher death rates, but across all global cases the average remains close to 35%.
+
+5.  The epidemic curve indicates this is a point source outbreak. (2 points)
+
+    Incorrect.
+
+    MERS-CoV shows sporadic zoonotic spillover with occasional healthcare-associated outbreaks rather than a single point source. The epidemic curve demonstrates ongoing cases over time, not a single exposure event.
