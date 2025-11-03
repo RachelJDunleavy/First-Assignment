@@ -146,7 +146,7 @@ Middle East respiratory syndrome coronavirus (MERS-CoV) is mostly found in camel
 
 Distribution of confirmed cases of MERS by place of infection and month of onset, April 2012 – September 2025 (European Centre for Disease Prevention and Control)
 
-![](Screenshot 2025-10-19 at 4.47.01 PM.png)
+![](Screenshot%202025-10-19%20at%204.47.01%20PM.png)
 
 Which of the following statements about MERS-CoV are correct? *(If it is incorrect, provide an explanation why the statement is incorrect.)*
 
@@ -175,3 +175,22 @@ Which of the following statements about MERS-CoV are correct? *(If it is incorre
     Incorrect.
 
     MERS-CoV shows sporadic zoonotic spillover with occasional healthcare-associated outbreaks rather than a single point source. The epidemic curve demonstrates ongoing cases over time, not a single exposure event.
+
+------------------------------------------------------------------------
+
+# 11/3/2025 Worksheet 5
+
+# Community Epidemiology Framework
+
+**Marburg Virus Outbreak, Rwanda 2024**\
+The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of\
+Marburg virus infection were documented, and most of the people infected were health care workers, mainly those who worked in intensive care units.
+
+1.  Using the community epidemiology framework developed by Fenton and Pedersen, would you classify this Marburg virus outbreak as a spillover event or an emerging\
+    infectious disease? Justify your classification.
+
+    Using Fenton and Pedersen's community epidemiology framework, the Marburg virus outbreak in Rwanda is best classified as a spillover event. The first human case occurred after exposure to Egyptian rousette bats the natural reservoir for the virus indicating direct zoonotic transmission from animals to humans. While subsequent person-person transmission from animals to humans. While subsequent person-to-person transmission made it an outbreak, the initial case was a spillover event from wildlife into the human population.
+
+2.  What measure could be implemented to reduce the risk of transmission community and healthcare setting?
+
+    To reduce the risk of Marburg virus transmission, communities should avoid contact with bats and caves, improve public health education, and ensure safe burial practices to prevent exposure to infected bodily fluids. In healthcare settings, strict infection prevention and control(IPC) measures are essential including consistent use of PPE, isolation of patients, proper disinfection and training of healthcare workers on handling infectious materials safely.
