@@ -194,3 +194,27 @@ Marburg virus infection were documented, and most of the people infected were he
 2.  What measure could be implemented to reduce the risk of transmission community and healthcare setting?
 
     To reduce the risk of Marburg virus transmission, communities should avoid contact with bats and caves, improve public health education, and ensure safe burial practices to prevent exposure to infected bodily fluids. In healthcare settings, strict infection prevention and control(IPC) measures are essential including consistent use of PPE, isolation of patients, proper disinfection and training of healthcare workers on handling infectious materials safely.
+
+    ------------------------------------------------------------------------
+
+# 11/10/2025
+
+# Worksheet 6 Using Qweb Vertico Disease in Fish Ponds
+
+## Results 
+
+| Pond | N (Fish) | Infected | Prevalence (%) | 95% Confidence Interval (%) | Fisher’s Exact Test p-value | Significant (p \< 0.05)? |
+|----|----|----|----|----|----|----|
+| Pond 1 | 20 | 6 | 30.0% | 14.0-52.5 | 0.1987 | No |
+|  |  |  |  |  |  |  |
+| Pond 2 | 15 | 1 | 6.7% | 0.3-30.2 | 0.1987 | No |
+
+## Interpretation
+
+The prevalence of Vertico disease was higher in Pond 1 (30%) compared to Pond 2 (6.7%).
+
+However, the Fisher's Exact Test yielded a p-value of 0.1987, which is greater than 0.05. This indicates that the difference in Vertico prevalence between the two ponds is not statistically significant at the 95% confidence level.
+
+In other words there is no strong evidence that infection rates differ between ponds; the observed difference could be due to random variation in small sample sizes.
+
+------------------------------------------------------------------------
