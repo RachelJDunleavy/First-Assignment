@@ -201,10 +201,10 @@ Marburg virus infection were documented, and most of the people infected were he
 
 # Worksheet 6 Using Qweb Vertico Disease in Fish Ponds
 
-## Results 
+## Results
 
 | Pond | N (Fish) | Infected | Prevalence (%) | 95% Confidence Interval (%) | Fisher’s Exact Test p-value | Significant (p \< 0.05)? |
-|----|----|----|----|----|----|----|
+|-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | Pond 1 | 20 | 6 | 30.0% | 14.0-52.5 | 0.1987 | No |
 |  |  |  |  |  |  |  |
 | Pond 2 | 15 | 1 | 6.7% | 0.3-30.2 | 0.1987 | No |
@@ -216,5 +216,48 @@ The prevalence of Vertico disease was higher in Pond 1 (30%) compared to Pond 2 
 However, the Fisher's Exact Test yielded a p-value of 0.1987, which is greater than 0.05. This indicates that the difference in Vertico prevalence between the two ponds is not statistically significant at the 95% confidence level.
 
 In other words there is no strong evidence that infection rates differ between ponds; the observed difference could be due to random variation in small sample sizes.
+
+------------------------------------------------------------------------
+
+# 11/16/2025
+
+# Worksheet 7: Nipah Virus, Langya Henipavirus & Avain Reovirus
+
+**Nipah Virus**\
+Nipah virus ecology varies across regions, resulting in distinct patterns of transmission\
+in places like Malaysia and Bangladesh. Describe how the modes of transmission differ\
+between these two regions and explain how these differences influence the preventive\
+measures recommended in each setting.
+
+Nipah virus transmission differs between Malaysia and Bangladesh because the ecological conditions and human-animal interactions are not the same. In Malaysia, the major route of transmission was a bat–\>pig-\>human pathway. Fruit bats contaminated pig feed or orchards near pig farms, pigs became infected and served as amplifying hosts, and most human cases occurred in people who had close contact with sick pigs. Human-to human transmission was extremely limited. This prevention in Malaysia focused on livestock control culling infected pigs, separating orchards from pig pens, improving farm bio-security, and reducing worker contact with infected animals.
+
+In Bangladesh, in contrast, spillover occurs directly from bats to humans, mainly when people drink raw palm sap contaminated with bat saliva or urine. Once infected, patients often transmit Nipah to family members and healthcare workers, making person-to-person spread a major driver of outbreaks. Prevention measures therefore emphasize blocking bat contamination of sap, discouraging consumption of raw sap, rapid case identification, and strict infection-control practices in clinics to limit respiratory transmission.
+
+These ecological differences-pig-amplified spread in Malaysia versus direct bat exposure and frequent human-to human transmission in Bangladesh-explain why the recommended prevention strategies differ between the two regions.
+
+\
+**Avian Reovirus**\
+Avian reoviruses (ARV) can be transmitted through multiple routes. Describe the\
+different transmission routes of ARV and explain which environmental factors favor its\
+transmission. What pathogen characteristics support one of these transmission routes?\
+Finally, provide an example of a wild bird disease caused by ARV and briefly describe\
+its impact on the affected population.
+
+Avian reoviruses spread through both horizontal and vertical transmission. Horizontally, they are transmitted by the fecal-oral route, direct bird-to-bird contact, and contaminated litter, water, or equipment. They can also spread aerosolized in dust in poultry houses. Vertically, infected hens can pass ARV through the egg to chicks.
+
+Environmental factors that favor transmission include crowded housing, poor ventilation, high organic load in litter, moist or dirty envrionments, and any setting where feces accumulate. These conditions help the virus remain stable and allow birds to ingest or inhale contaminated material.
+
+A key pathogen characteristic that supports vertical transmission is ARV's ability to infect and persist in the reproductive tract of hens, allowing it to be incorporated directly into developing eggs. Its environmental stability and resistance to disinfectants also support horizontal spread.
+
+An example of a wild bird disease caused by ARV is viral arthritis//tenosynovitis in wild turkeys, which leads to joint swelling, lameness, reduced mobility and in severe cases decreased survival because affected birds struggle to forage or escape predators.\
+
+**Langya henipavirus**\
+Langya henipavirus (LayV) is an emerging zoonotic virus first identified in China.\
+Describe the likely reservoir and transmission route of Langya virus. Why is LayV\
+classified as a spillover and not a potential EID?
+
+Langya henipavirus(LayV) is thought to have its primary reservior in small mammals, especially shrews, which showed the highest viral positivity in field studies. Human infection is believed to occur through direct or indirect spillover from infected shrews, likely through environmental contamination or close contact in rural/agricultural settings. So far, there is no evidence of sustained human-to-human transmission.
+
+LayV is classified as a spillover event, rather than a potential emerging infectious disease, because cases have been sporadic, isolated and directly linked to animal exposure without onward spread. There is no increasing incidence, no sustained outbreak pattern, and no adaptation suggesting the virus is becoming more efficient at infecting humans. The infectious appear to be single, dead-end zoonotic events, which fits the definition of spillover rather than an EID.
 
 ------------------------------------------------------------------------
