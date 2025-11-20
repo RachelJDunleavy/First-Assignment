@@ -199,7 +199,7 @@ Marburg virus infection were documented, and most of the people infected were he
 
 # 11/10/2025
 
-# Worksheet 6 Using Qweb Vertico Disease in Fish Ponds
+# Worksheet 6 Using QPweb Vertico Disease in Fish Ponds
 
 ## Results
 
@@ -259,5 +259,78 @@ classified as a spillover and not a potential EID?
 Langya henipavirus(LayV) is thought to have its primary reservior in small mammals, especially shrews, which showed the highest viral positivity in field studies. Human infection is believed to occur through direct or indirect spillover from infected shrews, likely through environmental contamination or close contact in rural/agricultural settings. So far, there is no evidence of sustained human-to-human transmission.
 
 LayV is classified as a spillover event, rather than a potential emerging infectious disease, because cases have been sporadic, isolated and directly linked to animal exposure without onward spread. There is no increasing incidence, no sustained outbreak pattern, and no adaptation suggesting the virus is becoming more efficient at infecting humans. The infectious appear to be single, dead-end zoonotic events, which fits the definition of spillover rather than an EID.
+
+------------------------------------------------------------------------
+
+# 11/19/2025 Worksheet 8
+
+# Raccoon Roundworm QPweb
+
+### Dataset Description
+
+The dataset consisted of 61 raccoons collected in Missouri and Arkansas during 2013–2014.\
+
+For each raccoon, data were recorded on
+
+-   Date of capture
+
+-   Region (North, Central, South)
+
+-   Sex (Male, Female)
+
+-   Age class (Adult, Young Adult)
+
+-   Number of *B. procyonis* roundworms found at necropsy (num_Bpro)
+
+    A worm count of zero indicates an uninfected raccoon, while any positive count indicates infection. The goal of this analysis was to quantify infection prevalence, describe infection patterns across host groups, and statistically compare prevalence between groups using QPweb.
+
+### Methods
+
+To calculate prevalence, the raw worm count column (num_Bpro) was uploaded into Quantitative Parasitology (QPweb) as a single-vector text file. Prevalence was defined as the proportion of hosts with num_Bpro \> 0.
+
+QPweb was used to calculate:
+
+-   Prevalence (%)
+
+-   95% confidence intervals (Clopper–Pearson method)
+
+-   Descriptive statistics, including mean and median intensity
+
+-   Fisher’s exact test for comparing prevalence between groups
+
+    Separate files were created for adult and young adult raccoons to compare infection between age classes.
+
+### Results
+
+| Age class | N | Infected | Prevalence (%) | 95% CI lower | 95% CI upper | Mean intensity | Median intensity |
+|---------|---------|---------|---------|---------|---------|---------|---------|
+| Adult | 69 | 36 | 52.2 | 39.8 | 64.4 | 9.19 | 3.0 |
+| Young adult | 49 | 13 | 26.5 | 14.9 | 41.1 | 10.77 | 4.0 |
+
+**Adults:**\
+Prevalence = **52.2%** (36/69)\
+95% CI = **39.8%–64.4%**
+
+**Young adults:**\
+Prevalence = **26.5%** (13/49)\
+95% CI = **14.9%–41.1%**
+
+Adults therefore showed approximately double the infection prevalence of young adults.\
+
+A Fisher’s exact test indicated that this difference was statistically significant (p = 0.0077).
+
+Among infected individuals, mean intensity was 9.19 worms in adults and 10.77 worms in young adults, indicating that although prevalence differed significantly, intensity was similar across groups.
+
+### Interpretation
+
+Infection prevalence differed strongly between age classes, with adults being significantly more likely to harbor *B. procyonis*. This pattern is ecologically expected because adults have greater cumulative exposure time to contaminated environments and raccoon latrines, where infective eggs accumulate. Young adults have had less opportunity for parasite acquisition, leading to lower prevalence.
+
+However, among raccoons that *were* infected, worm burdens (mean intensity) were similar or slightly higher in young adults. This suggests that while exposure risk differs by age, established infections can reach comparable intensities across stages once worms are acquired.
+
+Overall, age is an important predictor of infection risk in this raccoon population
+
+### Final Patterns 
+
+Across all analyses, clear patterns emerged in the dataset. Adults had markedly higher prevalence than young adults, indicating increased cumulative exposure over time. Confidence intervals confirmed that these patterns were biologically meaningful. The significant difference in prevalence (p = 0.0077) highlights age as a key demographic factor shaping infection risk. Although intensity values were similar between groups, prevalence differences suggest that greater exposure duration, rather than worm growth, explains age-based variation. These patterns align with known ecological dynamics of *B. procyonis*, in which environmental contamination and long-lived eggs drive infection risk.
 
 ------------------------------------------------------------------------
