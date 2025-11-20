@@ -1,7 +1,15 @@
 ---
 title: "RD_DisEco_Fall2025"
 author: "Rachel Dunleavy"
-format: html
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-location: left
+    number-sections: true
+    code-fold: true
+    code-tools: true
+    df-print: paged
 editor: visual
 ---
 
@@ -24,9 +32,7 @@ This image shows the connection between pathogen, host, and the environment. It 
 
 ------------------------------------------------------------------------
 
-# 9/22/2025 Worksheet 2
-
-# Sample Size for Disease Detection
+# 9/22/2025 Worksheet 2: Sample Size for Disease Detection
 
 ![](images/ss_table.png)
 
@@ -59,9 +65,7 @@ This image shows the connection between pathogen, host, and the environment. It 
 
 ------------------------------------------------------------------------
 
-# 9/26/2025 Worksheet 3
-
-# Measures of Disease Frequency: Prevalence and Incidence
+# 9/26/2025 Worksheet 3:Measures of Disease Frequency: Prevalence and Incidence
 
 Jan’s research focused on an elk herd housed in an exclosure. The herd size is 56. Her data shows that an outbreak of conjunctivitis started on 10^th^ June 2025. She meticulously documented the progress of the outbreak in this herd. Her observations of affected elk are as follows:
 
@@ -114,7 +118,7 @@ The lowest incidence is 0, occurring on a tie: 06/15/25 and 06/16/2025
 
 ------------------------------------------------------------------------
 
-# 10/14/2025 Tick Lab
+# 10/14/2025: Tick Lab
 
 Ticks are external parasites that can be identified based on their morphological features and more recently through molecular methods. Traditional identification relies on examining characteristics such as body shape, size, scutum (shield) patterns, mouthparts, and the presence or absence of festoons under a stereomicroscope. Keys for tick genera like *Ixodes*, *Amblyomma*, and *Rhipicephalus* are commonly used in diagnostic labs. Advances in molecular techniques, such as PCR and DNA barcoding, llow for more precise identification of tick species, particularly when morphological features are damaged or incomplete. The public health significance of ticks lies in their role as vectors of numerous pathogens, including bacteria (e.g., *Borrelia burgdorferi* causing Lyme disease), viruses (e.g., tick-borne encephalitis virus, Heartland virus), and protozoa (e.g., *Babesia* spp.). Because ticks feed on blood from humans and animals, they serve as bridges for zoonotic disease transmission, making accurate identification essential for surveillance, outbreak response, and prevention strategies.
 
@@ -136,9 +140,7 @@ R₀ is the average number of new infections caused by one infectious individual
 
 ------------------------------------------------------------------------
 
-# 10/19/2025 Worksheet 4
-
-# Multihost pathogens, Spillover
+# 10/19/2025 Worksheet 4: Multihost pathogens, Spillover
 
 **MERS-CoV**
 
@@ -178,9 +180,7 @@ Which of the following statements about MERS-CoV are correct? *(If it is incorre
 
 ------------------------------------------------------------------------
 
-# 11/3/2025 Worksheet 5
-
-# Community Epidemiology Framework
+# 11/3/2025 Worksheet 5: Community Epidemiology Framework
 
 **Marburg Virus Outbreak, Rwanda 2024**\
 The first person to become infected in the current Marburg virus outbreak in Rwanda probably contracted the disease during a visit to a cave with Egyptian rousette bats/fruit bats that are known reservoir of Marburg virus. As of 19 December 2024, 66 cases of\
@@ -197,9 +197,7 @@ Marburg virus infection were documented, and most of the people infected were he
 
     ------------------------------------------------------------------------
 
-# 11/10/2025
-
-# Worksheet 6 Using QPweb Vertico Disease in Fish Ponds
+# 11/10/2025 Worksheet 6: Using QPweb Vertico Disease in Fish Ponds
 
 ## Results
 
@@ -219,9 +217,7 @@ In other words there is no strong evidence that infection rates differ between p
 
 ------------------------------------------------------------------------
 
-# 11/16/2025
-
-# Worksheet 7: Nipah Virus, Langya Henipavirus & Avain Reovirus
+# 11/16/2025 Worksheet 7: Nipah Virus, Langya Henipavirus & Avain Reovirus
 
 **Nipah Virus**\
 Nipah virus ecology varies across regions, resulting in distinct patterns of transmission\
@@ -262,9 +258,7 @@ LayV is classified as a spillover event, rather than a potential emerging infect
 
 ------------------------------------------------------------------------
 
-# 11/19/2025 Worksheet 8
-
-# Raccoon Roundworm QPweb
+# 11/19/2025 Worksheet 8: Raccoon Roundworm QPweb
 
 ### Dataset Description
 
@@ -329,8 +323,105 @@ However, among raccoons that *were* infected, worm burdens (mean intensity) were
 
 Overall, age is an important predictor of infection risk in this raccoon population
 
-### Final Patterns 
+### Final Patterns
 
 Across all analyses, clear patterns emerged in the dataset. Adults had markedly higher prevalence than young adults, indicating increased cumulative exposure over time. Confidence intervals confirmed that these patterns were biologically meaningful. The significant difference in prevalence (p = 0.0077) highlights age as a key demographic factor shaping infection risk. Although intensity values were similar between groups, prevalence differences suggest that greater exposure duration, rather than worm growth, explains age-based variation. These patterns align with known ecological dynamics of *B. procyonis*, in which environmental contamination and long-lived eggs drive infection risk.
 
 ------------------------------------------------------------------------
+
+# 11/19/2025 Worksheet 9: Grad Student Presentation's 
+
+### Question 1
+
+In 2024, a multistate *Salmonella* outbreak was linked to backyard poultry flocks in the United States. What specific human behaviors contributed to the zoonotic spread of *Salmonella*? In your response, identify at least three practices by backyard poultry owners that increased the risk of *Salmonella* transmission, and briefly explain why these behaviors facilitated human infection.
+
+**Answer:**\
+Several common behaviors by backyard poultry owners increased the risk of zoonotic transmission of *Salmonella*:
+
+1.  **Treating poultry like pets (kissing, snuggling, bringing birds indoors)**\
+    Many people held chickens or chicks close to their faces, allowed them on laps, or brought them into kitchens and living spaces.
+    -   This behavior increases risk because *Salmonella* is shed on feathers, feet, and beaks, and close contact makes it easy for fecal particles to reach the mouth, nose, or eyes.
+2.  **Inadequate handwashing after contact with birds or their environment**\
+    Owners often handled birds, collected eggs, or cleaned coops and then ate, drank, or touched their faces without washing hands thoroughly with soap and water.
+    -   This facilitates infection because *Salmonella* survives well on skin and surfaces, and contaminated hands are a direct route to the mouth (fecal–oral transmission).
+3.  **Allowing young children to handle poultry unsupervised**\
+    Children frequently handled chicks, played in or near coops, or touched contaminated soil and litter without immediate hygiene.
+    -   Young children have underdeveloped immune systems and often put their hands or objects in their mouths, which makes them highly susceptible to infection from even small doses of *Salmonella*.
+
+Additional risk behaviors that contributed include eating or drinking in poultry areas, cleaning equipment or boots inside the home, and using household sinks for washing items contaminated with poultry feces. Together, these practices created many opportunities for *Salmonella* to move from bird feces to people via the fecal–oral route.
+
+### Question 2
+
+Tall fescue grass is commonly infected with a fungal endophyte (*Epichloë coenophiala*) that produces ergot alkaloids associated with fescue toxicosis in grazing livestock.
+
+### 2a. What advantage does Tall fescue gain from being infected with a fungal endophyte?
+
+**Answer:**\
+Tall fescue gains several ecological and physiological advantages from its association with *Epichloë coenophiala*:
+
+-   **Improved stress tolerance:** Endophyte-infected fescue is more tolerant of drought, heat, and grazing pressure, in part because the fungus enhances root growth and water-use efficiency.\
+-   **Increased resistance to herbivores:** The ergot alkaloids deter insect and vertebrate herbivory, reducing damage from pests.\
+-   **Greater persistence and competitiveness:** These benefits allow infected fescue stands to persist longer and outcompete other forage species.
+
+Overall, the endophyte acts as a mutualist for the plant, improving survival and productivity, even though it can be harmful to grazing animals.
+
+### 2b. What environmental and ecological factors drive the occurrence and severity of fescue toxicosis in grazing systems?
+
+**Answer:**\
+The occurrence and severity of fescue toxicosis are driven by a combination of environmental and management factors:
+
+-   **Season and temperature:** Warm temperatures, especially in late spring and summer, tend to increase alkaloid production by the endophyte, raising the risk of toxicosis.\
+-   **Pasture composition:** Pastures dominated by endophyte-infected tall fescue (high infection frequency and little mixed forage) provide few “safe” plants, increasing cumulative alkaloid intake.\
+-   **Grazing intensity and height:** Heavy, continuous grazing forces animals to eat lower plant parts (leaf sheaths and base of stems) where alkaloid concentrations are highest.\
+-   **Plant and pasture stress:** Drought, overgrazing, and poor soil fertility can stress fescue plants and are often associated with elevated alkaloid levels.\
+-   **Stocking rate and animal density:** High stocking rates increase competition for forage and can push animals to consume more toxic material.
+
+These factors interact to determine how much ergot alkaloid livestock actually ingest and how frequently animals are exposed to high-risk forage
+
+### 2c. What are the key clinical signs of fescue toxicity in cattle?
+
+**Answer:**\
+Key clinical signs of fescue toxicosis in cattle include:
+
+-   **Poor thermoregulation and heat intolerance:**
+    -   Elevated body temperature, excessive seeking of shade or water, panting, and failure to dissipate heat effectively.
+-   **Reduced performance and “summer slump”:**
+    -   Decreased feed intake, reduced average daily gain, rough or shaggy hair coat, and failure to shed the winter coat on time.\
+    -   Lower milk production in lactating cows.
+-   **Reproductive problems:**
+    -   Decreased conception rates, early embryonic loss, longer calving intervals, and in some cases agalactia (little or no milk at calving).
+-   **Peripheral vasoconstriction–related signs (in cold weather):**
+    -   “Fescue foot” with cold extremities, lameness, and in severe cases necrosis or sloughing of the tail or distal limbs.
+
+These signs reflect the vasoconstrictive and endocrine-disrupting effects of ergot alkaloids produced by the endophyte in infected tall fescue.
+
+------------------------------------------------------------------------
+
+# 11/19/2025 Worksheet 10: Grad Student Presentation's 
+
+### Question 1
+
+What are the different routes of transmission for African Swine Fever (ASF)? What role do humans play in the spread and transmission of ASF?
+
+**Answer:**\
+African Swine Fever spreads through multiple transmission routes. The primary route is direct contact between infected pigs and healthy pigs through blood, saliva, urine, feces, or other bodily secretions. ASF can also spread indirectly through contaminated equipment, clothing, boots, feed, vehicles, and surfaces, because the virus is extremely stable in the environment. Another route involves soft ticks in the genus *Ornithodoros*, which can act as biological vectors and long-term reservoirs in some regions of the world.
+
+Humans play a major role in spreading ASF even though they cannot become infected. People can move the virus long distances by transporting contaminated pork or improperly disposing of infected carcasses. Feeding pigs raw or undercooked food scraps containing infected meat is a major source of outbreaks. Human movement between farms without proper disinfection also spreads the virus through contaminated shoes, tools, and equipment. Transporting infected pigs between farms or regions further accelerates disease spread. Because ASF survives well in meat and the environment, human behavior and biosecurity practices are critical factors in controlling transmission.
+
+### Question 2
+
+Describe how co-infection with Koala retrovirus (KoRV) affects the severity, progression, and management of Chlamydia in koalas.
+
+**Answer:**\
+Co-infection with Koala retrovirus greatly increases the severity and progression of Chlamydia infections in koalas. KoRV suppresses the immune system, reducing the animal’s ability to fight off bacterial infections. As a result, koalas infected with both pathogens typically develop more severe forms of Chlamydia, including worse eye infections, urinary tract disease, infertility, and organ damage. KoRV also increases inflammation and may raise bacterial loads, causing Chlamydia to progress more quickly.
+
+Management becomes more difficult because koalas with KoRV often respond less effectively to antibiotic treatment and may relapse after therapy. KoRV-associated immune suppression means that even standard treatments may not fully clear the infection. In populations where KoRV is widespread, Chlamydia outbreaks tend to be more severe, more persistent, and harder to control, requiring long-term monitoring and more intensive medical intervention.
+
+### Question 3
+
+Snake Fungal Disease (SFD), caused by *Ophidiomyces ophiodiicola*, is an emerging threat to wild snake populations in North America. What are the key challenges associated with the surveillance and management of SFD?
+
+**Answer:**\
+Several key challenges make surveillance and management of Snake Fungal Disease difficult. Many snake species are naturally hard to detect because they are cryptic, secretive, and often occupy habitats that are difficult to access. This results in low detection rates and incomplete data on population-level impacts. Clinical signs of SFD vary among species and can resemble injuries, shedding issues, or other infections, making diagnosis difficult without laboratory confirmation.
+
+There are limited field diagnostics available, and most testing requires capturing snakes and sending samples to specialized laboratories. There is no widely effective treatment for snakes in natural environments, and removing sick individuals is not practical for wild populations. Environmental factors such as habitat disturbance, climate, and stress can worsen disease severity, but managers have limited ability to control these factors in wild settings. These combined challenges make long-term monitoring, early detection, and effective management of SFD extremely difficult.
